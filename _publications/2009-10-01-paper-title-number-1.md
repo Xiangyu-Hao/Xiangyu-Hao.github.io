@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "PNAS_2024"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/PNAS_2024
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+slidesurl: 'slides(https://www.pnas.org/doi/full/10.1073/pnas.2218183120)'
+paperurl: 'Link(https://www.pnas.org/doi/full/10.1073/pnas.2218183120)'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
