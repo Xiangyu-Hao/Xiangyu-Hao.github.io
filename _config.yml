@@ -28,16 +28,16 @@ author:
   location         : "Yangling, Shaanxi, China"
   employer         : "Northwest A&F University"
   uri              : # URL
-  email            : "xyhao(at)nwafu.edu.cn\nxyhao(at)gmail.com" 
+  email            : "xyhao@nwafu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=0oJKjrEAAAAJ&hl=zh-CN"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-8553-6522"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Xiangyu-Hao-2"
   scopus           : # URL
 
   # Repositories and software development
