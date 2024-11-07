@@ -1,5 +1,5 @@
 ---
-title: "PNAS_2023"
+title: "Evolution of bitter receptor genes and ontogenetic dietary shift in a frog"
 collection: publications
 category: manuscripts
 permalink: /publication/PNAS_2023
