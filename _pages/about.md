@@ -7,4 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-**A master student at Northwest Agricultural and Forestry University.**
+
+
+
+
+A master student at _Northwest Agricultural and Forestry University_.
