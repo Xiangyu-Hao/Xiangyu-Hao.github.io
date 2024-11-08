@@ -1,7 +1,7 @@
 ---
 title: "Evolution of bitter receptor genes and ontogenetic dietary shift in a frog"
 collection: publications
-#category: manuscripts
+category: manuscripts
 permalink: /publication/PNAS_2023
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
