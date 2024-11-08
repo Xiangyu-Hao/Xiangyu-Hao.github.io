@@ -6,14 +6,19 @@ author_profile: true
 ---
 
 
-### 2023
+## 2024
+Wang Z, Tian S, Pang J, Zhang X, **Hao X**, Zhang L, Zhao H* (2024). Comparative analysis of chromosome‐level genomes provides insights into chromosomal evolution in Chiroptera. _**Integrative Zoology**_.  
+[Link](https://doi.org/10.1111/1749-4877.12915)
+
+**Hao X**, Lu Q, Zhao H* (2024). A molecular phylogeny for all 21 families within Chiroptera (bats). _**Integrative Zoology**_, 19(5), 989–998.  
+[Link](https://doi.org/10.1111/1749-4877.12772)
+
+
+## 2023
 **Hao X**, Jiao H, Zou D, Li Q, Yuan X, Liao W, Jiang P, Zhao H* (2023). Evolution of bitter receptor genes and ontogenetic dietary shift in a frog. _**Proceedings of the National Academy of Sciences**_, 120(8), e2218183120.  
-[Link](https://www.pnas.org/doi/full/10.1073/pnas.2218183120) [PDF](../files/Hao_PNAS_2023.pdf)  
+[Link](https://www.pnas.org/doi/full/10.1073/pnas.2218183120) [PDF](/files/Hao_2023_PNAS.pdf)  
 
----
 
-## Title of Paper 2
-**Authors:** Alice Brown, Bob White  
-**Journal:** Science, **Year:** 2022  
-**Abstract:** In this study, we explore the impact of climate change on migration patterns...  
-[Read More](https://example.com/paper2)
+## 2021
+**Hao X**, Liu J, Chiba H, Xiao J, Yuan X* (2021). Complete mitochondrial genomes of three skippers in the tribe Aeromachini (Lepidoptera: Hesperiidae: Hesperiinae) and their phylogenetic implications. _**Ecology and Evolution**_, 11(12), 8381–8393.  
+[Link](https://doi.org/10.1002/ece3.7666) [PDF](/files/Hao_2021_EcE.pdf)
