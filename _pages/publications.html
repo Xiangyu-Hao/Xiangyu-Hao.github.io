@@ -5,32 +5,18 @@ permalink: /publications/
 author_profile: false
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+# Publications
 
-{% include base_path %}
+### Title of Paper 1
+**Authors:** Jane Doe, John Smith  
+**Journal:** Nature, **Year:** 2023  
+**Abstract:** This paper discusses the role of biodiversity in ecosystem resilience...  
+[Read More](https://example.com/paper1)  
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+---
 
-
-
+### Title of Paper 2
+**Authors:** Alice Brown, Bob White  
+**Journal:** Science, **Year:** 2022  
+**Abstract:** In this study, we explore the impact of climate change on migration patterns...  
+[Read More](https://example.com/paper2)
