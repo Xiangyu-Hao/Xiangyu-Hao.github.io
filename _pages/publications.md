@@ -25,4 +25,4 @@ Wang Z, Tian S, Pang J, Zhang X, **Hao X**, Zhang L, Zhao H* (2024). Comparative
 <a href="https://doi.org/10.1002/ece3.7666" target="_blank">Link</a> <a href="/files/Hao_2021_EcE.pdf" target="_blank">PDF</a>
 
 
-[Publications](_publications/2009-10-01-paper-title-number-1.md)
+[Publications](../_publications/2009-10-01-paper-title-number-1.md)
