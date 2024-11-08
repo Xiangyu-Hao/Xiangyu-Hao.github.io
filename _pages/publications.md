@@ -8,7 +8,7 @@ author_profile: true
 
 ### 2023
 **Hao X**, Jiao H, Zou D, Li Q, Yuan X, Liao W, Jiang P, Zhao H* (2023). Evolution of bitter receptor genes and ontogenetic dietary shift in a frog. _**Proceedings of the National Academy of Sciences**_, 120(8), e2218183120.  
-[Link](https://www.pnas.org/doi/full/10.1073/pnas.2218183120) [PDF](files/Hao_PNAS_2023.pdf)  
+[Link](https://www.pnas.org/doi/full/10.1073/pnas.2218183120) [PDF](../files/Hao_PNAS_2023.pdf)  
 
 ---
 
