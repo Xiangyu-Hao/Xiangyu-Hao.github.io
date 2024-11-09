@@ -5,4 +5,4 @@ permalink: /protocols/
 author_profile: true
 ---
 
-# [Phylogenomics](../files/Phylogenomics.md)
+# [Phylogenomics](../protocols/Phylogenomics.html)
