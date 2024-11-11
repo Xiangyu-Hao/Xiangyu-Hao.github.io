@@ -5,4 +5,4 @@ permalink: /protocols/
 author_profile: true
 ---
 
-# [Phylogenomics](../protocols/Phylogenomics.html)
+# <a href="../protocols/Phylogenomics.html" target="_blank">Phylogenomics</a>
