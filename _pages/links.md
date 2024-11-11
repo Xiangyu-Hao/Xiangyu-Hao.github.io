@@ -7,7 +7,7 @@ author_profile: true
 
 # Phylogeny
 ## Phylogeny of Mammals
-Meredith et al. (2011) _Science_ [Tree](../Meredith_2011_Science.pdf) [Link](https://www.science.org/doi/10.1126/science.1211028)
+Meredith et al. (2011) _Science_ [Tree](../links/Meredith_2011_Science.pdf) [Link](https://www.science.org/doi/10.1126/science.1211028)
 
 ---
 
