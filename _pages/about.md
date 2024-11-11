@@ -11,8 +11,11 @@ redirect_from:
 
 
 
-A master student at _Northwest Agricultural and Forestry University_.
 
-[ResearchGate](https://www.researchgate.net/profile/Xiangyu-Hao-2)
 
-[WeChat](../images/wechat.jpg)
+
+  
+  
+Welcome to my academic homepage. I am a master’s student at the College of Plant Protection, _[Northwest A&F University](https://www.nwafu.edu.cn/)_, where I also earned my bachelor’s degree in Life Sciences. I further expanded my research skills during a visiting undergraduate at Wuhan University. My current research focuses on (1) phylogenomics and (2) molecular evolution of chemosensory genes in vertebrates and insects.  
+
+Thank you for visiting my page :)
