@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DNA Sequence Translator</title>
+    <script>
+        function translateDNA() {
+            const standardCodonTable = {
+                'ATA':'I', 'ATC':'I', 'ATT':'I', 'ATG':'M',
+                'ACA':'T', 'ACC':'T', 'ACG':'T', 'ACT':'T',
+                'AAC':'N', 'AAT':'N', 'AAA':'K', 'AAG':'K',
+                'AGC':'S', 'AGT':'S', 'AGA':'R', 'AGG':'R',
+                'CTA':'L', 'CTC':'L', 'CTG':'L', 'CTT':'L',
+                'CCA':'P', 'CCC':'P', 'CCG':'P', 'CCT':'P',
+                'CAC':'H', 'CAT':'H', 'CAA':'Q', 'CAG':'Q',
+                'CGA':'R', 'CGC':'R', 'CGG':'R', 'CGT':'R',
+                'GTA':'V', 'GTC':'V', 'GTG':'V', 'GTT':'V',
+                'GCA':'A', 'GCC':'A', 'GCG':'A', 'GCT':'A',
+                'GAC':'D', 'GAT':'D', 'GAA':'E', 'GAG':'E',
+                'GGA':'G', 'GGC':'G', 'GGG':'G', 'GGT':'G',
+                'TCA':'S', 'TCC':'S', 'TCG':'S', 'TCT':'S',
+                'TTC':'F', 'TTT':'F', 'TTA':'L', 'TTG':'L',
+                'TAC':'Y', 'TAT':'Y', 'TAA':'*', 'TAG':'*',
+                'TGC':'C', 'TGT':'C', 'TGA':'*', 'TGG':'W'
+            };
+
+            const vertebrateMitochondrialCodonTable = {
+                'ATA':'M', 'ATC':'I', 'ATT':'I', 'ATG':'M',
+                'ACA':'T', 'ACC':'T', 'ACG':'T', 'ACT':'T',
+                'AAC':'N', 'AAT':'N', 'AAA':'N', 'AAG':'K',
+                'AGC':'S', 'AGT':'S', 'AGA':'*', 'AGG':'*',
+                'CTA':'L', 'CTC':'L', 'CTG':'L', 'CTT':'L',
+                'CCA':'P', 'CCC':'P', 'CCG':'P', 'CCT':'P',
+                'CAC':'H', 'CAT':'H', 'CAA':'Q', 'CAG':'Q',
+                'CGA':'R', 'CGC':'R', 'CGG':'R', 'CGT':'R',
+                'GTA':'V', 'GTC':'V', 'GTG':'V', 'GTT':'V',
+                'GCA':'A', 'GCC':'A', 'GCG':'A', 'GCT':'A',
+                'GAC':'D', 'GAT':'D', 'GAA':'E', 'GAG':'E',
+                'GGA':'G', 'GGC':'G', 'GGG':'G', 'GGT':'G',
+                'TCA':'S', 'TCC':'S', 'TCG':'S', 'TCT':'S',
+                'TTC':'F', 'TTT':'F', 'TTA':'L', 'TTG':'L',
+                'TAC':'Y', 'TAT':'Y', 'TAA':'*', 'TAG':'*',
+                'TGC':'C', 'TGT':'C', 'TGA':'W', 'TGG':'W'
+            };
+
+            const invertebrateMitochondrialCodonTable = {
+                'ATA':'I', 'ATC':'I', 'ATT':'I', 'ATG':'M',
+                'ACA':'T', 'ACC':'T', 'ACG':'T', 'ACT':'T',
+                'AAC':'N', 'AAT':'N', 'AAA':'K', 'AAG':'K',
+                'AGC':'S', 'AGT':'S', 'AGA':'S', 'AGG':'S',
+                'CTA':'L', 'CTC':'L', 'CTG':'L', 'CTT':'L',
+                'CCA':'P', 'CCC':'P', 'CCG':'P', 'CCT':'P',
+                'CAC':'H', 'CAT':'H', 'CAA':'Q', 'CAG':'Q',
+                'CGA':'R', 'CGC':'R', 'CGG':'R', 'CGT':'R',
+                'GTA':'V', 'GTC':'V', 'GTG':'V', 'GTT':'V',
+                'GCA':'A', 'GCC':'A', 'GCG':'A', 'GCT':'A',
+                'GAC':'D', 'GAT':'D', 'GAA':'E', 'GAG':'E',
+                'GGA':'G', 'GGC':'G', 'GGG':'G', 'GGT':'G',
+                'TCA':'S', 'TCC':'S', 'TCG':'S', 'TCT':'S',
+                'TTC':'F', 'TTT':'F', 'TTA':'L', 'TTG':'L',
+                'TAC':'Y', 'TAT':'Y', 'TAA':'*', 'TAG':'*',
+                'TGC':'C', 'TGT':'C', 'TGA':'W', 'TGG':'W'
+            };
+
+            let codonTable;
+            const selectedTable = document.getElementById("codonTableSelect").value;
+            if (selectedTable === "vertebrate_mitochondrial") {
+                codonTable = vertebrateMitochondrialCodonTable;
+            } else if (selectedTable === "invertebrate_mitochondrial") {
+                codonTable = invertebrateMitochondrialCodonTable;
+            } else {
+                codonTable = standardCodonTable;
+            }
+
+            let inputText = document.getElementById("dnaInput").value;
+            let sequences = inputText.split(/(?=>)/g); // Split by '>' which indicates new FASTA sequence
+            let proteinOutput = "";
+
+            if (sequences.length === 1 && !inputText.startsWith('>')) {
+                // Handle single sequence without FASTA header
+                let dnaSequence = inputText.replace(/\s+/g, '').toUpperCase();
+                let proteinSequence = "";
+
+                for (let i = 0; i < dnaSequence.length; i += 3) {
+                    let codon = dnaSequence.substring(i, i + 3);
+                    if (codon.length === 3) {
+                        proteinSequence += codonTable[codon] || "?";
+                    }
+                }
+
+                proteinOutput = proteinSequence;
+            } else {
+                // Handle multiple sequences in FASTA format
+                sequences.forEach(sequence => {
+                    if (sequence.startsWith('>')) {
+                        let lines = sequence.split('\n');
+                        let header = lines.shift();
+                        let dnaSequence = lines.join('').replace(/\s+/g, '').toUpperCase();
+                        let proteinSequence = "";
+
+                        for (let i = 0; i < dnaSequence.length; i += 3) {
+                            let codon = dnaSequence.substring(i, i + 3);
+                            if (codon.length === 3) {
+                                proteinSequence += codonTable[codon] || "?";
+                            }
+                        }
+
+                        proteinOutput += header + "\n" + proteinSequence + "\n";
+                    }
+                });
+            }
+
+            document.getElementById("proteinOutput").innerText = proteinOutput;
+        }
+    </script>
+</head>
+<body>
+    <h1>DNA Sequence to Protein Translator</h1>
+    <label for="dnaInput">Enter DNA Sequence (FASTA format supported):</label>
+    <br>
+    <textarea id="dnaInput" rows="10" cols="50"></textarea>
+    <br>
+    <label for="codonTableSelect">Select Codon Table:</label>
+    <select id="codonTableSelect">
+        <option value="standard">Standard Codon Table</option>
+        <option value="vertebrate_mitochondrial">Vertebrate Mitochondrial Codon Table</option>
+        <option value="invertebrate_mitochondrial">Invertebrate Mitochondrial Codon Table</option>
+    </select>
+    <br>
+    <button onclick="translateDNA()">Submit</button>
+    <h2>Protein Sequence:</h2>
+    <pre id="proteinOutput"></pre>
+</body>
+</html>
