@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-## 2024
+## 2024  
+**Hao X**, Pan Y, Chiba H, Yuan X* (2024). Phylogeny, divergence times and biogeography of the subfamily Tagiadinae (Lepidoptera: Hesperiidae) based on molecular data and morphological characters. _**Insect Systematics and Diversity**_. (Accepted)  
+
 Wang Z, Tian S, Pang J, Zhang X, **Hao X**, Zhang L, Zhao H* (2024). <a href="https://doi.org/10.1111/1749-4877.12915" target="_blank">Comparative analysis of chromosome‐level genomes provides insights into chromosomal evolution in Chiroptera</a>. _**Integrative Zoology**_.
 
 **Hao X**, Lu Q, Zhao H* (2024). <a href="https://doi.org/10.1111/1749-4877.12772" target="_blank">A molecular phylogeny for all 21 families within Chiroptera (bats)</a>. _**Integrative Zoology**_, 19(5), 989–998.
