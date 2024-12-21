@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DNA Reverse Complement Tool</title>
+    <style>
+        /* Global Styles */
+        *, *::before, *::after {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #f0f4f8, #d9e2ec);
+            margin: 0;
+            padding: 0;
+            color: #333;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Header Styles */
+        header {
+            background-color: #2a9d8f;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+            letter-spacing: 1px;
+        }
+
+        /* Container Styles */
+        .container {
+            max-width: 900px;
+            width: 90%;
+            margin: 30px auto;
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s;
+            flex: 1; /* Allows container to expand and push footer to bottom */
+        }
+
+        .container:hover {
+            transform: translateY(-5px);
+        }
+
+        /* Form Group Styles */
+        .form-group {
+            margin-top: 20px;
+        }
+
+        /* Form Elements Styles */
+        label {
+            display: block;
+            font-weight: bold;
+            font-size: 1.1rem;
+            margin-bottom: 10px; /* Consistent spacing below label */
+        }
+
+        textarea {
+            width: 100%;
+            padding: 15px;
+            font-size: 1rem;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            resize: vertical;
+            transition: border-color 0.3s;
+            min-height: 150px;
+        }
+
+        textarea:focus {
+            border-color: #2a9d8f;
+            outline: none;
+        }
+
+        button {
+            width: 100%;
+            padding: 15px;
+            font-size: 1.1rem;
+            color: white;
+            background-color: #2a9d8f;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            margin-top: 25px;
+            transition: background-color 0.3s, transform 0.2s;
+        }
+
+        button:hover {
+            background-color: #21867a;
+            transform: scale(1.02);
+        }
+
+        button:active {
+            transform: scale(0.98);
+        }
+
+        /* Output Area Styles */
+        pre {
+            background: #f7f9fc;
+            padding: 20px;
+            border-radius: 8px;
+            border: 1px solid #e0e0e0;
+            overflow-x: auto;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            font-size: 1rem;
+            margin-top: 20px;
+            max-height: 300px;
+            overflow-y: auto;
+        }
+
+        /* Footer Styles */
+        footer {
+            text-align: center;
+            padding: 15px 0;
+            background-color: #2a9d8f;
+            color: white;
+            width: 100%;
+            box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        footer p {
+            margin: 0;
+            font-size: 0.9rem;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px;
+            }
+
+            header h1 {
+                font-size: 2rem;
+            }
+
+            button {
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>DNA Reverse Complement Tool</h1>
+    </header>
+
+    <div class="container">
+        <div class="form-group">
+            <label for="dna-sequence">Enter DNA Sequence(s) (FASTA format supported):</label>
+            <textarea id="dna-sequence" placeholder="Paste your DNA sequence(s) here"></textarea>
+        </div>
+
+        <button onclick="generateReverseComplement()">Generate Reverse Complement</button>
+
+        <div class="form-group">
+            <label for="output">Output (Reverse Complement):</label>
+            <pre id="output"></pre>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Xiangyu Hao | DNA Reverse Complement Tool</p>
+    </footer>
+
+    <script>
+        function generateReverseComplement() {
+            let input = document.getElementById('dna-sequence').value.trim();
+            let output = '';
+
+            // Check for illegal characters only in sequence data (not FASTA headers)
+            let sequenceOnly = input.replace(/^>.*$/gm, '');  // Remove FASTA headers
+            if (/[^ATCG\n]/i.test(sequenceOnly)) {
+                alert("Illegal characters detected!");
+                return;
+            }
+
+            // Helper function to reverse complement a single sequence
+            function reverseComplement(seq) {
+                const complement = { 'A': 'T', 'T': 'A', 'C': 'G', 'G': 'C' };
+                return seq.split('').reverse().map(base => complement[base]).join('');
+            }
+
+            // Detect if input is in FASTA format or plain text
+            if (input.startsWith('>')) {
+                // Split input into lines, process each sequence in FASTA format
+                let sequences = input.split('\n');
+                let currentSeq = '';
+                let header = '';
+
+                sequences.forEach(line => {
+                    if (line.startsWith('>')) {
+                        // If we already have a sequence, reverse complement it
+                        if (currentSeq) {
+                            output += header + '\n' + reverseComplement(currentSeq) + '\n';
+                        }
+                        header = line; // Save the header for the new sequence
+                        currentSeq = ''; // Reset sequence
+                    } else {
+                        currentSeq += line.trim(); // Append sequence data
+                    }
+                });
+
+                // Don't forget the last sequence
+                if (currentSeq) {
+                    output += header + '\n' + reverseComplement(currentSeq) + '\n';
+                }
+            } else {
+                // Plain text sequence
+                output = reverseComplement(input);
+            }
+
+            document.getElementById('output').textContent = output;
+        }
+    </script>
+</body>
+</html>
