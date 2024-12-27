@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-\* Corresponding author
+**Notes:** \* Corresponding author
 ## 2024  
 **Hao X**, Pan Y, Chiba H, Yuan X* (2024). Phylogeny, divergence times and biogeography of the subfamily Tagiadinae (Lepidoptera: Hesperiidae) based on molecular data and morphological characters. _**Insect Systematics and Diversity**_. (Accepted)  
 
