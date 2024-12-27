@@ -14,8 +14,8 @@ Thank you for visiting my page :)
 ---
 
 ## Selected Publications
-**Hao X**, Jiao H, Zou D, Li Q, Yuan X, Liao W, Jiang P, Zhao H* (2023). Evolution of bitter receptor genes and ontogenetic dietary shift in a frog. Proceedings of the National Academy of Sciences, 120(8), e2218183120.  
+**Hao X**, Jiao H, Zou D, Li Q, Yuan X, Liao W, Jiang P, Zhao H* (2023). Evolution of bitter receptor genes and ontogenetic dietary shift in a frog. _**Proceedings of the National Academy of Sciences**_, 120(8), e2218183120.  
 
-**Hao X**, Lu Q, Zhao H* (2024). A molecular phylogeny for all 21 families within Chiroptera (bats). Integrative Zoology, 19(5), 989–998.  
+**Hao X**, Lu Q, Zhao H* (2024). A molecular phylogeny for all 21 families within Chiroptera (bats). _**Integrative Zoology**_, 19(5), 989–998.  
 
-**Hao X**, Liu J, Chiba H, Xiao J, Yuan X* (2021). Complete mitochondrial genomes of three skippers in the tribe Aeromachini (Lepidoptera: Hesperiidae: Hesperiinae) and their phylogenetic implications. Ecology and Evolution, 11(12), 8381–8393.
+**Hao X**, Liu J, Chiba H, Xiao J, Yuan X* (2021). Complete mitochondrial genomes of three skippers in the tribe Aeromachini (Lepidoptera: Hesperiidae: Hesperiinae) and their phylogenetic implications. _**Ecology and Evolution**_, 11(12), 8381–8393.
