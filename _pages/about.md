@@ -14,7 +14,7 @@ Thank you for visiting my page :)
 ---
 
 ## Selected Publications
-**Hao X**, Jiao H, Zou D, Li Q, Yuan X, Liao W, Jiang P, Zhao H* (2023). Evolution of bitter receptor genes and ontogenetic dietary shift in a frog. _**Proceedings of the National Academy of Sciences**_, 120(8), e2218183120.  
+**Hao X**, Jiao H, Zou D, Li Q, Yuan X, Liao W, Jiang P, Zhao H* (2023). Evolution of bitter receptor genes and ontogenetic dietary shift in a frog. _**Proceedings of the National Academy of Sciences of the United States of America**_, 120(8), e2218183120.  
 
 **Hao X**, Lu Q, Zhao H* (2024). A molecular phylogeny for all 21 families within Chiroptera (bats). _**Integrative Zoology**_, 19(5), 989–998.  
 
