@@ -24,11 +24,11 @@ Wang Z, Tian S, Pang J, Zhang X, **Hao X**, Zhang L, Zhao H* (2024). <a href="ht
 **Hao X**, Liu J, Chiba H, Xiao J, Yuan X* (2021). <a href="https://doi.org/10.1002/ece3.7666" target="_blank">Complete mitochondrial genomes of three skippers in the tribe Aeromachini (Lepidoptera: Hesperiidae: Hesperiinae) and their phylogenetic implications</a>. _**Ecology and Evolution**_, 11(12), 8381–8393.  
 <a href="/files/Hao_2021_EcE.pdf" target="_blank">PDF</a>  
 
-**Hao X**, Zhao J, Hao R, Zhao Y, Yuan X* (2021). <a href="https://www.tandfonline.com/doi/full/10.1080/23802359.2021.1914523" target="_blank">Complete mitochondrial genome of the Small-Branded Swift: _Pelopidas mathias_ (Lepidoptera, Hesperiidae)</a>. _**Mitochondrial DNA Part B**_, 6(5), 1599-1600.  
+**Hao X**, Zhao J, Hao R, Zhao Y, Yuan X* (2021). <a href="https://www.tandfonline.com/doi/full/10.1080/23802359.2021.1914523" target="_blank">Complete mitochondrial genome of the Small-Branded Swift: _Pelopidas mathias_ (Lepidoptera, Hesperiidae)</a>. _**Mitochondrial DNA Part B: Resources**_, 6(5), 1599-1600.  
 <a href="/files/Hao_2021_Mitochondrial_DNA.pdf" target="_blank">PDF</a>
 
 ---
 
 ## 2019
-**Hao X**\* (2019). <a href="https://www.tandfonline.com/doi/full/10.1080/23802359.2019.1681316" target="_blank">Complete mitochondrial genome of the East Asian fish-eating bat: _Myotis ricketti_ (Chiroptera, Vespertilionidae)</a>. _**Mitochondrial DNA Part B**_, 4(2), 3748–3749.  
+**Hao X**\* (2019). <a href="https://www.tandfonline.com/doi/full/10.1080/23802359.2019.1681316" target="_blank">Complete mitochondrial genome of the East Asian fish-eating bat: _Myotis ricketti_ (Chiroptera, Vespertilionidae)</a>. _**Mitochondrial DNA Part B: Resources**_, 4(2), 3748–3749.  
 <a href="/files/Hao_2019_Mitochondrial_DNA.pdf" target="_blank">PDF</a>
