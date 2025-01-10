@@ -15,7 +15,7 @@ Wang Z, Tian S, Pang J, Zhang X, **Hao X**, Zhang L, Zhao H* (2024). <a href="ht
 ---
 
 ## 2023
-**Hao X**, Jiao H, Zou D, Li Q, Yuan X, Liao W, Jiang P, Zhao H* (2023). <a href="https://www.pnas.org/doi/full/10.1073/pnas.2218183120" target="_blank">Evolution of bitter receptor genes and ontogenetic dietary shift in a frog</a>. _**Proceedings of the National Academy of Sciences**_, 120(8), e2218183120.  
+**Hao X**, Jiao H, Zou D, Li Q, Yuan X, Liao W, Jiang P, Zhao H* (2023). <a href="https://www.pnas.org/doi/full/10.1073/pnas.2218183120" target="_blank">Evolution of bitter receptor genes and ontogenetic dietary shift in a frog</a>. _**Proceedings of the National Academy of Sciences of the United States of America**_, 120(8), e2218183120.  
 <a href="/files/Hao_2023_PNAS.pdf" target="_blank">PDF</a> | <a href="/files/Hao_2023_PNAS_sapp.pdf" target="_blank">Supplementary Methods</a> | <a href="/files/Hao_2023_PNAS_commentary.pdf" target="_blank">PNAS Commentary</a> | <a href="https://www.pnas.org/doi/10.1073/iti0823120" target="_blank">Highlighted in this issue</a>
 
 ---
