@@ -8,7 +8,7 @@ author_profile: true
 
 ## 2025
  
-**Hao X**, Pan Y, Chiba H, Yuan X* (2025). Phylogeny, divergence times and biogeography of the subfamily Tagiadinae (Lepidoptera: Hesperiidae) based on molecular data and morphological characters. _**Insect Systematics and Diversity**_. (Accepted)  
+**Hao X**, Pan Y, Chiba H, Yuan X* (2025). <a href="https://doi.org/10.1093/isd/ixaf002" target="_blank">Phylogeny, divergence times and biogeography of the subfamily Tagiadinae (Lepidoptera: Hesperiidae) based on molecular data and morphological characters</a>. _**Insect Systematics and Diversity**_, 9(2).  
 
 ---
 
