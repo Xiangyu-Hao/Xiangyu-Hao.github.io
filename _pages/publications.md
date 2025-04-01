@@ -8,20 +8,20 @@ author_profile: true
 
 ## 2025
  
-**Hao X**, Pan Y, Chiba H, Yuan X* (2025). <a href="https://doi.org/10.1093/isd/ixaf002" target="_blank">Phylogeny, divergence times and biogeography of the subfamily Tagiadinae (Lepidoptera: Hesperiidae) based on molecular data and morphological characters</a>. _**Insect Systematics and Diversity**_, 9(2).  
+**Hao X**, Pan Y, Chiba H, Yuan X* (2025). <a href="https://doi.org/10.1093/isd/ixaf002" target="_blank">Phylogeny, divergence times and biogeography of the subfamily Tagiadinae (Lepidoptera: Hesperiidae) based on molecular data and morphological characters</a>. _**Insect Systematics and Diversity**_, 9(2). (中科院一区Top / JCR Q1)  
 
 ---
 
 ## 2024
 
-Wang Z, Tian S, Pang J, Zhang X, **Hao X**, Zhang L, Zhao H* (2024). <a href="https://doi.org/10.1111/1749-4877.12915" target="_blank">Comparative analysis of chromosome‐level genomes provides insights into chromosomal evolution in Chiroptera</a>. _**Integrative Zoology**_.  
+Wang Z, Tian S, Pang J, Zhang X, **Hao X**, Zhang L, Zhao H* (2024). <a href="https://doi.org/10.1111/1749-4877.12915" target="_blank">Comparative analysis of chromosome‐level genomes provides insights into chromosomal evolution in Chiroptera</a>. _**Integrative Zoology**_. (中科院一区Top / JCR Q1)  
 
-**Hao X**, Lu Q, Zhao H* (2024). <a href="https://doi.org/10.1111/1749-4877.12772" target="_blank">A molecular phylogeny for all 21 families within Chiroptera (bats)</a>. _**Integrative Zoology**_, 19(5), 989–998.
+**Hao X**, Lu Q, Zhao H* (2024). <a href="https://doi.org/10.1111/1749-4877.12772" target="_blank">A molecular phylogeny for all 21 families within Chiroptera (bats)</a>. _**Integrative Zoology**_, 19(5), 989–998. (中科院一区Top / JCR Q1)  
 
 ---
 
 ## 2023
-**Hao X**, Jiao H, Zou D, Li Q, Yuan X, Liao W, Jiang P, Zhao H* (2023). <a href="https://www.pnas.org/doi/full/10.1073/pnas.2218183120" target="_blank">Evolution of bitter receptor genes and ontogenetic dietary shift in a frog</a>. _**Proceedings of the National Academy of Sciences of the United States of America**_, 120(8), e2218183120.  
+**Hao X**, Jiao H, Zou D, Li Q, Yuan X, Liao W, Jiang P, Zhao H* (2023). <a href="https://www.pnas.org/doi/full/10.1073/pnas.2218183120" target="_blank">Evolution of bitter receptor genes and ontogenetic dietary shift in a frog</a>. _**Proceedings of the National Academy of Sciences of the United States of America**_, 120(8), e2218183120. (中科院一区Top / JCR Q1)  
 <a href="/files/Hao_2023_PNAS.pdf" target="_blank">PDF</a> | <a href="/files/Hao_2023_PNAS_sapp.pdf" target="_blank">Supplementary Methods</a> | <a href="/files/Hao_2023_PNAS_commentary.pdf" target="_blank">PNAS Commentary</a> | <a href="https://www.pnas.org/doi/10.1073/iti0823120" target="_blank">Highlighted in this issue</a>
 
 ---
