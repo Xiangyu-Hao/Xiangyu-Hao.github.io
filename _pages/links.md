@@ -38,9 +38,9 @@ author_profile: true
 ---
 
 ## Phylogeny of Primates
-(1) Shao et al. (2023) _Science_ [Tree](../links/Shao_2023_Science.pdf) [Links](https://www.science.org/doi/10.1126/science.abn6919)  
-(2) Kuderna et al. (2023) _Science_ [Tree](../links/Kuderna_2023_Science.pdf) [Links](https://www.science.org/doi/10.1126/science.abn7829)  
-(3) Roos et al. (2025) _Nature Reviews Biodiversity_ [Tree](../links/Roos_2025_Nature_Reviews_Biodiversity.pdf) [Links](https://doi.org/10.1038/s44358-025-00039-8)  
+(1) Shao et al. (2023) _Science_ [Tree](../links/Shao_2023_Science.pdf) [Link](https://www.science.org/doi/10.1126/science.abn6919)  
+(2) Kuderna et al. (2023) _Science_ [Tree](../links/Kuderna_2023_Science.pdf) [Link](https://www.science.org/doi/10.1126/science.abn7829)  
+(3) Roos et al. (2025) _Nature Reviews Biodiversity_ [Tree](../links/Roos_2025_Nature_Reviews_Biodiversity.pdf) [Link](https://doi.org/10.1038/s44358-025-00039-8)  
 
 ---
 
