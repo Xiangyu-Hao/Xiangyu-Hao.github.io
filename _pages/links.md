@@ -44,8 +44,9 @@ author_profile: true
 
 ---
 
-
-
+## Phylogeny of Cetartiodactyla
+(1) Zhou et al. (2011) _Molecular Phylogenetics and Evolution_ [Tree](../links/Zhou_2011_Molecular_Phylogenetics_and_Evolution.pdf) [Link](https://doi.org/10.1016/j.ympev.2011.02.009)  
+(2) Zurano et al. (2019) _Molecular Phylogenetics and Evolution_ [Tree](../links/Zurano_2019_Molecular_Phylogenetics_and_Evolution.pdf) [Link](https://doi.org/10.1016/j.ympev.2018.12.015)  
 
 
 
