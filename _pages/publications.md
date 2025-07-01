@@ -22,22 +22,26 @@ author_profile: true
     <img src="../images/Hao_2025_ISD.jpeg" alt="Hao_2025_ISD" style="width: auto; height: 200px; margin-right: 10px;" />
     <img src="../images/Hao_2021_EcE.png" alt="Hao_2021_EcE" style="width: auto; height: 200px; margin-right: 10px;" />
     <img src="../images/Mitochondrial_DNA.jpg" alt="Mitochondrial_DNA" style="width: auto; height: 200px; margin-right: 10px;" />
-  </div>
-</div>
-
-<style>
-  @keyframes scrollImages {
-    0% {
-      transform: translateX(0);
-    }
-    100% {
-      transform: translateX(-50%);
-    }
-  }
-</style>
-
-<div style="display: flex; overflow: hidden; width: 100%; padding: 10px 0;">
-  <div id="scrolling-container" style="display: flex;">
+    <img src="../images/Hao_2023_PNAS.png" alt="Hao_2023_PNAS" style="width: auto; height: 200px; margin-right: 10px;" />
+    <img src="../images/Hao_2024_INZ_1.png" alt="Hao_2024_INZ_1" style="width: auto; height: 200px; margin-right: 10px;" />
+    <img src="../images/Hao_2025_ISD.jpeg" alt="Hao_2025_ISD" style="width: auto; height: 200px; margin-right: 10px;" />
+    <img src="../images/Hao_2021_EcE.png" alt="Hao_2021_EcE" style="width: auto; height: 200px; margin-right: 10px;" />
+    <img src="../images/Mitochondrial_DNA.jpg" alt="Mitochondrial_DNA" style="width: auto; height: 200px; margin-right: 10px;" />
+    <img src="../images/Hao_2023_PNAS.png" alt="Hao_2023_PNAS" style="width: auto; height: 200px; margin-right: 10px;" />
+    <img src="../images/Hao_2024_INZ_1.png" alt="Hao_2024_INZ_1" style="width: auto; height: 200px; margin-right: 10px;" />
+    <img src="../images/Hao_2025_ISD.jpeg" alt="Hao_2025_ISD" style="width: auto; height: 200px; margin-right: 10px;" />
+    <img src="../images/Hao_2021_EcE.png" alt="Hao_2021_EcE" style="width: auto; height: 200px; margin-right: 10px;" />
+    <img src="../images/Mitochondrial_DNA.jpg" alt="Mitochondrial_DNA" style="width: auto; height: 200px; margin-right: 10px;" />
+    <img src="../images/Hao_2023_PNAS.png" alt="Hao_2023_PNAS" style="width: auto; height: 200px; margin-right: 10px;" />
+    <img src="../images/Hao_2024_INZ_1.png" alt="Hao_2024_INZ_1" style="width: auto; height: 200px; margin-right: 10px;" />
+    <img src="../images/Hao_2025_ISD.jpeg" alt="Hao_2025_ISD" style="width: auto; height: 200px; margin-right: 10px;" />
+    <img src="../images/Hao_2021_EcE.png" alt="Hao_2021_EcE" style="width: auto; height: 200px; margin-right: 10px;" />
+    <img src="../images/Mitochondrial_DNA.jpg" alt="Mitochondrial_DNA" style="width: auto; height: 200px; margin-right: 10px;" />
+    <img src="../images/Hao_2023_PNAS.png" alt="Hao_2023_PNAS" style="width: auto; height: 200px; margin-right: 10px;" />
+    <img src="../images/Hao_2024_INZ_1.png" alt="Hao_2024_INZ_1" style="width: auto; height: 200px; margin-right: 10px;" />
+    <img src="../images/Hao_2025_ISD.jpeg" alt="Hao_2025_ISD" style="width: auto; height: 200px; margin-right: 10px;" />
+    <img src="../images/Hao_2021_EcE.png" alt="Hao_2021_EcE" style="width: auto; height: 200px; margin-right: 10px;" />
+    <img src="../images/Mitochondrial_DNA.jpg" alt="Mitochondrial_DNA" style="width: auto; height: 200px; margin-right: 10px;" />
     <img src="../images/Hao_2023_PNAS.png" alt="Hao_2023_PNAS" style="width: auto; height: 200px; margin-right: 10px;" />
     <img src="../images/Hao_2024_INZ_1.png" alt="Hao_2024_INZ_1" style="width: auto; height: 200px; margin-right: 10px;" />
     <img src="../images/Hao_2025_ISD.jpeg" alt="Hao_2025_ISD" style="width: auto; height: 200px; margin-right: 10px;" />
@@ -46,27 +50,6 @@ author_profile: true
   </div>
 </div>
 
-<style>
-  #scrolling-container {
-    animation: scrollImages 20s linear infinite;
-  }
-
-  @keyframes scrollImages {
-    0% {
-      transform: translateX(0);
-    }
-    100% {
-      transform: translateX(-100%);
-    }
-  }
-</style>
-
-<script>
-  const container = document.getElementById("scrolling-container");
-  container.addEventListener("animationiteration", () => {
-    container.appendChild(container.firstElementChild);
-  });
-</script>
 
 
 ## 2025
