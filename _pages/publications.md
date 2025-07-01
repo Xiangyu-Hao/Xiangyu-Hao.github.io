@@ -51,6 +51,17 @@ author_profile: true
 </div>
 
 
+<style>
+  @keyframes scrollImages {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+</style>
+
 
 ## 2025
 
