@@ -9,7 +9,8 @@ author_profile: true
 
 **Notes:** \* Corresponding author, <sup>†</sup> Co-first
 
-<img src="../images/Hao_2023_PNAS.png" alt="Hao_2023_PNAS" width=auto height="200" /> <img src="../images/Hao_2024_INZ_1.png" alt="Hao_2024_INZ_1" width=auto height="200" /> <img src="../images/Hao_2025_ISD.jpeg" alt="Hao_2025_ISD" width=auto height="200" /> <img src="../images/Hao_2021_EcE.png" alt="Hao_2021_EcE" width=auto height="200" /> <img src="../images/Mitochondrial_DNA.jpg" alt="Mitochondrial_DNA" width=auto height="200" />
+<img src="../images/Hao_2023_PNAS.png" alt="Hao_2023_PNAS" style="width: auto; height: 200px;" /> <img src="../images/Hao_2024_INZ_1.png" alt="Hao_2024_INZ_1" style="width: auto; height: 200px;" /> <img src="../images/Hao_2025_ISD.jpeg" alt="Hao_2025_ISD" style="width: auto; height: 200px;" /> <img src="../images/Hao_2021_EcE.png" alt="Hao_2021_EcE" style="width: auto; height: 200px;" /> <img src="../images/Mitochondrial_DNA.jpg" alt="Mitochondrial_DNA" style="width: auto; height: 200px;" />
+
 
 
 ## 2025
