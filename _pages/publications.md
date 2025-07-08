@@ -87,7 +87,7 @@ Xiao J, Liu J, Ma L, **Hao X**, Yu R, Yuan X* (2022). <a href="https://doi.org/1
 Xu R<sup>†</sup>, Duan L<sup>†</sup>, **Hao X<sup>†</sup>**, Xiao J, Yuan X* (2021). <a href="https://doi.org/10.1080/23802359.2021.1927875" target="_blank">Characterization of complete mitochondrial genome of Polyura narcaeus (Lepidoptera: Nymphalidae: Charaxinae)</a>. _**Mitochondrial DNA Part B: Resources**_, 6(5), 1654-1655.  
 <a href="/files/Xu_2021_Mitochondrial_DNA.pdf" target="_blank">PDF</a>  
 
-Sun Q, Yang Y, **Hao X**, Xiao J, Liu J, Yuan X* (2021). <a href="https://doi.org/10.3390/insects12080757" target="_blank">Comparative mitogenomic analysis of five awl skippers (Lepidoptera: Hesperiidae: Coeliadinae) and their phylogenetic implications</a>. _**Insects**_, 12(8), 757.  
+Sun Q<sup>†</sup>, Yang Y<sup>†</sup>, **Hao X**, Xiao J, Liu J, Yuan X* (2021). <a href="https://doi.org/10.3390/insects12080757" target="_blank">Comparative mitogenomic analysis of five awl skippers (Lepidoptera: Hesperiidae: Coeliadinae) and their phylogenetic implications</a>. _**Insects**_, 12(8), 757.  
 <a href="/files/Sun_2021_Insects.pdf" target="_blank">PDF</a>  
 
 ---
