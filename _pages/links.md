@@ -64,12 +64,12 @@ author_profile: true
 (1) Peters _et al._ (2017) _Current Biology_ [Tree](../links/Peters_2017_Current_Biology.pdf) [Link](https://doi.org/10.1016/j.cub.2017.01.027)  
 (2) Blaimer _et al._ (2023) _Nature Communications_ [Tree](../links/Blaimer_2023_Nature_Communications.pdf) [Link](https://www.nature.com/articles/s41467-023-36868-4)  
 
-## Lepidoptera 鳞翅目
+## Lepidoptera 鳞翅目 🦋
 (1) Kawahara _et al._ (2019) _PNAS_ [Tree](../links/Kawahara_2019_PNAS.pdf) [Link](https://doi.org/10.1073/pnas.1907847116)  
-### Butterflies 蝴蝶
+### Butterflies 蝴蝶 🦋
 (1) Kawahara _et al._ (2023) _Nature Ecology & Evolution_ [Tree](../links/Kawahara_2023_NatEcolEvol.pdf) [Link](https://doi.org/10.1038/s41559-023-02041-9)  
 
-## Diptera 双翅目
+## Diptera 双翅目 🪰🦟
 (1) Wiegmann _et al._ (2011) _PNAS_ [Tree](../links/Wiegmann_2011_PNAS.pdf) [Link](https://doi.org/10.1073/pnas.1012675108)  
 
 
