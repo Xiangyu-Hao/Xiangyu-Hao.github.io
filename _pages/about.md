@@ -13,13 +13,19 @@ Thank you for visiting my page :)
 
 ---
 
-## Selected Publications
-**Hao X**, Jiao H, Zou D, Li Q, Yuan X, Liao W, Jiang P, Zhao H* (2023). Evolution of bitter receptor genes and ontogenetic dietary shift in a frog. _**Proceedings of the National Academy of Sciences of the United States of America**_, 120(8), e2218183120. [[Cited by 10]](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6825370446871787969)  
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-**Hao X**, Lu Q, Zhao H* (2024). A molecular phylogeny for all 21 families within Chiroptera (bats). _**Integrative Zoology**_, 19(5), 989–998. [[Cited by 15]](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12185297635408410257)  
+## Selected Publications
+**Hao X**, Jiao H, Zou D, Li Q, Yuan X, Liao W, Jiang P, Zhao H* (2023). Evolution of bitter receptor genes and ontogenetic dietary shift in a frog. _**Proceedings of the National Academy of Sciences of the United States of America**_, 120(8), e2218183120.  
+<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.2218183120" data-hide-zero-citations="true" data-style="large_rectangle"></span>
+
+**Hao X**, Lu Q, Zhao H* (2024). A molecular phylogeny for all 21 families within Chiroptera (bats). _**Integrative Zoology**_, 19(5), 989–998.  
+<span class="__dimensions_badge_embed__" data-doi="10.1111/1749-4877.12772" data-hide-zero-citations="true" data-style="large_rectangle"></span>
 
 **Hao X**, Pan Y, Chiba H, Yuan X* (2025). Phylogeny, divergence times and biogeography of the subfamily Tagiadinae (Lepidoptera: Hesperiidae) based on molecular data and morphological characters. _**Insect Systematics and Diversity**_, 9(2).  
+<span class="__dimensions_badge_embed__" data-doi="10.1093/isd/ixaf002" data-hide-zero-citations="true" data-style="large_rectangle"></span>
 
-**Hao X**, Liu J, Chiba H, Xiao J, Yuan X* (2021). Complete mitochondrial genomes of three skippers in the tribe Aeromachini (Lepidoptera: Hesperiidae: Hesperiinae) and their phylogenetic implications. _**Ecology and Evolution**_, 11(12), 8381–8393. [[Cited by 7]](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4815433412610751622)  
+**Hao X**, Liu J, Chiba H, Xiao J, Yuan X* (2021). Complete mitochondrial genomes of three skippers in the tribe Aeromachini (Lepidoptera: Hesperiidae: Hesperiinae) and their phylogenetic implications. _**Ecology and Evolution**_, 11(12), 8381–8393.  
+<span class="__dimensions_badge_embed__" data-doi="10.1002/ece3.7666" data-hide-zero-citations="true" data-style="large_rectangle"></span>
 
 [_See all publications_](https://xiangyu-hao.github.io/publications/)
