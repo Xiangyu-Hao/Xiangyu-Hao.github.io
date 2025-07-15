@@ -51,7 +51,8 @@ author_profile: true
 
 ## 2025
 
-Xiao J, **Hao X**, Chiba H, Li Y, Yuan X* (2025). Comparative analysis of mitogenomic and nuclear gene data reveals phylogenetic implications, divergence times and historical biogeography in the subfamily Pyrginae (Lepidoptera: Hesperiidae). _**Ecology and Evolution**_ (Accepted).
+Xiao J, **Hao X**, Chiba H, Li Y, Yuan X* (2025). <a href="https://doi.org/10.1002/ece3.71757" target="_blank">Comparative analysis of mitogenomic and nuclear gene data reveals phylogenetic implications, divergence times and historical biogeography in the subfamily Pyrginae (Lepidoptera: Hesperiidae)</a>. _**Ecology and Evolution**_, 15(7), e71757.  
+<a href="/files/Xiao_2025_EcE.pdf" target="_blank">PDF</a>  
 
 **Hao X**, Pan Y, Chiba H, Yuan X* (2025). <a href="https://doi.org/10.1093/isd/ixaf002" target="_blank">Phylogeny, divergence times and biogeography of the subfamily Tagiadinae (Lepidoptera: Hesperiidae) based on molecular data and morphological characters</a>. _**Insect Systematics and Diversity**_, 9(2).  
 
