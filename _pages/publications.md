@@ -49,6 +49,8 @@ author_profile: true
   });
 </script>
 
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
 ## 2025
 
 Xiao J, **Hao X**, Chiba H, Li Y, Yuan X* (2025). <a href="https://doi.org/10.1002/ece3.71757" target="_blank">Comparative analysis of mitogenomic and nuclear gene data reveals phylogenetic implications, divergence times and historical biogeography in the subfamily Pyrginae (Lepidoptera: Hesperiidae)</a>. _**Ecology and Evolution**_, 15(7), e71757.  
@@ -80,13 +82,10 @@ Xiao J, Liu J, Ma L, **Hao X**, Yu R, Yuan X* (2022). <a href="https://doi.org/1
 
 ## 2021
 **Hao X**, Liu J, Chiba H, Xiao J, Yuan X* (2021). <a href="https://doi.org/10.1002/ece3.7666" target="_blank">Complete mitochondrial genomes of three skippers in the tribe Aeromachini (Lepidoptera: Hesperiidae: Hesperiinae) and their phylogenetic implications</a>. _**Ecology and Evolution**_, 11(12), 8381–8393.  
-<a href="/files/Hao_2021_EcE.pdf" target="_blank">PDF</a>  
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<span class="__dimensions_badge_embed__" data-doi="10.1002/ece3.7666" data-style="small_rectangle"></span>
+<a href="/files/Hao_2021_EcE.pdf" target="_blank">PDF</a> <span class="__dimensions_badge_embed__" data-doi="10.1002/ece3.7666" data-style="small_circle"></span>
 
 **Hao X**, Zhao J, Hao R, Zhao Y, Yuan X* (2021). <a href="https://www.tandfonline.com/doi/full/10.1080/23802359.2021.1914523" target="_blank">Complete mitochondrial genome of the Small-Branded Swift: _Pelopidas mathias_ (Lepidoptera, Hesperiidae)</a>. _**Mitochondrial DNA Part B: Resources**_, 6(5), 1599-1600.  
 <a href="/files/Hao_2021_Mitochondrial_DNA.pdf" target="_blank">PDF</a>  
-<span class="__dimensions_badge_embed__" data-doi="10.1002/ece3.7666"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 Xu R<sup>†</sup>, Duan L<sup>†</sup>, **Hao X<sup>†</sup>**, Xiao J, Yuan X* (2021). <a href="https://doi.org/10.1080/23802359.2021.1927875" target="_blank">Characterization of complete mitochondrial genome of Polyura narcaeus (Lepidoptera: Nymphalidae: Charaxinae)</a>. _**Mitochondrial DNA Part B: Resources**_, 6(5), 1654-1655.  
 <a href="/files/Xu_2021_Mitochondrial_DNA.pdf" target="_blank">PDF</a>  
