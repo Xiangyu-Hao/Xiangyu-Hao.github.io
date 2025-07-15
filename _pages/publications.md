@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 
-
 **Notes:** \* Corresponding author, <sup>†</sup> Co-first
 
 
@@ -87,6 +86,7 @@ Xiao J, Liu J, Ma L, **Hao X**, Yu R, Yuan X* (2022). <a href="https://doi.org/1
 
 **Hao X**, Zhao J, Hao R, Zhao Y, Yuan X* (2021). <a href="https://www.tandfonline.com/doi/full/10.1080/23802359.2021.1914523" target="_blank">Complete mitochondrial genome of the Small-Branded Swift: _Pelopidas mathias_ (Lepidoptera, Hesperiidae)</a>. _**Mitochondrial DNA Part B: Resources**_, 6(5), 1599-1600.  
 <a href="/files/Hao_2021_Mitochondrial_DNA.pdf" target="_blank">PDF</a>  
+<span class="__dimensions_badge_embed__" data-doi="10.1002/ece3.7666"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 Xu R<sup>†</sup>, Duan L<sup>†</sup>, **Hao X<sup>†</sup>**, Xiao J, Yuan X* (2021). <a href="https://doi.org/10.1080/23802359.2021.1927875" target="_blank">Characterization of complete mitochondrial genome of Polyura narcaeus (Lepidoptera: Nymphalidae: Charaxinae)</a>. _**Mitochondrial DNA Part B: Resources**_, 6(5), 1654-1655.  
 <a href="/files/Xu_2021_Mitochondrial_DNA.pdf" target="_blank">PDF</a>  
