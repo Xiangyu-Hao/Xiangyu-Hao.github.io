@@ -9,7 +9,6 @@ author_profile: true
 # (1) Labs
 [武汉大学-动物进化与生态基因组学实验室](https://animal-evolution.whu.edu.cn/index.htm)  
 
-[华中师范大学-进化与生态功能基因组学实验室](https://ccnu-cls.github.io/Jiaolab)  
 
 ---
 
