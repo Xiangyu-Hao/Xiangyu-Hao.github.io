@@ -16,12 +16,14 @@ author_profile: true
     <img src="../images/Hao_2024_INZ_1.png" alt="Hao_2024_INZ_1" style="width: auto; height: 200px; margin-right: 10px;" />
     <img src="../images/Hao_2025_ISD.jpeg" alt="Hao_2025_ISD" style="width: auto; height: 200px; margin-right: 10px;" />
     <img src="../images/Hao_2021_EcE.png" alt="Hao_2021_EcE" style="width: auto; height: 200px; margin-right: 10px;" />
+    <img src="../images/Xiao_2025_EcE.png" alt="Xiao_2025_EcE" style="width: auto; height: 200px; margin-right: 10px;" />
     <img src="../images/Mitochondrial_DNA.jpg" alt="Mitochondrial_DNA" style="width: auto; height: 200px; margin-right: 10px;" />
     <!-- Repeated images to create a seamless scroll effect -->
     <img src="../images/Hao_2023_PNAS.png" alt="Hao_2023_PNAS" style="width: auto; height: 200px; margin-right: 10px;" />
     <img src="../images/Hao_2024_INZ_1.png" alt="Hao_2024_INZ_1" style="width: auto; height: 200px; margin-right: 10px;" />
     <img src="../images/Hao_2025_ISD.jpeg" alt="Hao_2025_ISD" style="width: auto; height: 200px; margin-right: 10px;" />
     <img src="../images/Hao_2021_EcE.png" alt="Hao_2021_EcE" style="width: auto; height: 200px; margin-right: 10px;" />
+    <img src="../images/Xiao_2025_EcE.png" alt="Xiao_2025_EcE" style="width: auto; height: 200px; margin-right: 10px;" />
     <img src="../images/Mitochondrial_DNA.jpg" alt="Mitochondrial_DNA" style="width: auto; height: 200px; margin-right: 10px;" />
   </div>
 </div>
