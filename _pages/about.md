@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master’s student at the College of Plant Protection, _[Northwest A&F University](https://www.nwafu.edu.cn/)_, where I also earned my bachelor’s degree in Life Sciences. I further expanded my research skills in evolutionary biology and molecular ecology during a visiting undergraduate at Wuhan University. My current research focuses on (1) phylogenomics and (2) molecular evolution of chemosensory genes in vertebrates and insects.  
+I am currently a Ph.D. candidate at the [College of Life Sciences](https://bio.whu.edu.cn/), [Wuhan University](https://en.whu.edu.cn/). I received both my Bachelor’s and Master’s degrees from [Northwest A&F University](https://www.nwafu.edu.cn/). My research interests focus on three main areas: (1) using comparative genomics to investigate the unique immune adaptation mechanisms in bats; (2) phylogenomics of bats; and (3) molecular evolution of chemosensory genes in vertebrates and insects.  
 
 Thank you for visiting my page :)  
 
