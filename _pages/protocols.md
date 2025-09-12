@@ -1,47 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Protocols</title>
-    <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-            line-height: 1.6;
-            padding: 2rem;
-            max-width: 800px;
-            margin: 0 auto;
-        }
-        h1 {
-            border-bottom: 2px solid #eee;
-            padding-bottom: 0.5rem;
-            margin-top: 2rem;
-        }
-        a {
-            text-decoration: none;
-            color: #007bff;
-            transition: color 0.3s;
-        }
-        a:hover {
-            color: #0056b3;
-        }
-    </style>
-</head>
-<body>
-
-<header>
-    <h1>Protocols</h1>
-</header>
-
-<main>
-    <h1><a onclick="checkPassword()">Phylogenomics</a></h1>  
-    <h1><a href="../protocols/transcriptome.html" target="_blank">Transcriptome</a></h1>  
-    <h1><a href="../protocols/Molecular Convergence (conv_cal).html" target="_blank">Molecular Convergence (conv_cal)</a></h1>  
-    <h1><a href="../protocols/Relaxed Selection Test.html" target="_blank">Relaxed Selection Test</a></h1>  
-</main>
-
+---
+layout: archive
+title: "Protocols"
+permalink: /protocols/
+author_profile: true
+---
 <script src="https://cdn.jsdelivr.net/npm/js-sha256@0.9.0/src/sha256.min.js"></script>
-
 <script>
     function checkPassword() {
         const obfuscatedHashParts = [
@@ -67,6 +30,7 @@
         }
     }
 </script>
-
-</body>
-</html>
+# <a onclick="checkPassword()">Phylogenomics</a>
+# <a href="../protocols/transcriptome.html" target="_blank">Transcriptome</a>
+# <a href="../protocols/Molecular Convergence (conv_cal).html" target="_blank">Molecular Convergence (conv_cal)</a>
+# <a href="../protocols/Relaxed Selection Test.html" target="_blank">Relaxed Selection Test</a>
