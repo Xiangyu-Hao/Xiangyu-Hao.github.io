@@ -13,7 +13,7 @@ Thank you for visiting my page :)
 
 ---
 ## Grants
-2026–2027, **NSCF (National Natural Science Foundation of China) Youth Student Basic Research Project (PhD students)**  
+2026–2027, **NSFC (National Natural Science Foundation of China) Youth Student Basic Research Project (PhD students)**  
 国家自然科学基金青年学生基础研究项目（博士研究生）  
 
 2026–2027, **Young Elite Scientists Sponsorship Program by CAST (China Association for Science and Technology) - Doctoral Student Special Plan**  
