@@ -54,6 +54,7 @@ author_profile: true
 (2) Truman _et al._ (2019) _Current Biology_ [Tree](../links/Truman_2019_Current_Biology.pdf) [Link](https://www.cell.com/current-biology/fulltext/S0960-9822(19)31315-6)  
 (3) Tihelka _et al._ (2021) _Current Biology_ [Tree](../links/Tihelka_2021_Current_Biology.pdf) [Link](https://www.cell.com/current-biology/fulltext/S0960-9822(21)01193-3)  
 (4) Du _et al._ (2024) _PNAS_ [Tree](../links/Du_2024_PNAS.pdf) [Link](https://doi.org/10.1073/pnas.2408775121)  
+(5) Wu _et al._ (2026) _Cell Research_ [Tree](../links/Wu_2026_Cell_Research.pdf) [Link](https://doi.org/10.1038/s41422-026-01220-0)  
 
 ## Coleoptera 鞘翅目 🐞🪲
 (1) Zhang _et al._ (2018) _Nature Communications_ [Tree](../links/Zhang_2018_Nature_Communications.pdf) [Link](https://www.nature.com/articles/s41467-017-02644-4)  
