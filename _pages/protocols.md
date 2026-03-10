@@ -9,3 +9,6 @@ author_profile: true
 # <a href="../protocols/transcriptome.html" target="_blank">Transcriptome</a>  
 # <a href="../protocols/Molecular Convergence (conv_cal).html" target="_blank">Molecular Convergence (conv_cal)</a>  
 # <a href="../protocols/Relaxed Selection Test.html" target="_blank">Relaxed Selection Test</a>  
+# <a href="../protocols/Ancestral Sequence Reconstruction (ARPIP).html" target="_blank">Ancestral Sequence Reconstruction (ARPIP)</a>  
+
+
