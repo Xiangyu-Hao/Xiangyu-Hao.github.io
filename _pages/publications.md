@@ -60,14 +60,14 @@ Xiao J, **Hao X**, Chiba H, Li Y, Yuan X* (2025). <a href="https://doi.org/10.10
 <a href="/files/Xiao_2025_EcE.pdf" target="_blank">PDF</a>  
 <span class="__dimensions_badge_embed__" data-doi="10.1002/ece3.71757" data-hide-zero-citations="true" data-style="large_rectangle"></span>
 
-**Hao X**, Pan Y, Chiba H, Yuan X* (2025). <a href="https://doi.org/10.1093/isd/ixaf002" target="_blank">Phylogeny, divergence times and biogeography of the subfamily Tagiadinae (Lepidoptera: Hesperiidae) based on molecular data and morphological characters</a>. _**Insect Systematics and Diversity**_, 9(2).  
+**Hao X**, Pan Y, Chiba H, Yuan X* (2025). <a href="https://doi.org/10.1093/isd/ixaf002" target="_blank">Phylogeny, divergence times and biogeography of the subfamily Tagiadinae (Lepidoptera: Hesperiidae) based on molecular data and morphological characters</a>. _**Insect Systematics and Diversity**_, 9(2), ixaf002.  
 <span class="__dimensions_badge_embed__" data-doi="10.1093/isd/ixaf002" data-hide-zero-citations="true" data-style="large_rectangle"></span>
 
 ---
 
 ## 2024
 
-Wang Z, Tian S, Pang J, Zhang X, **Hao X**, Zhang L, Zhao H* (2024). <a href="https://doi.org/10.1111/1749-4877.12915" target="_blank">Comparative analysis of chromosome‐level genomes provides insights into chromosomal evolution in Chiroptera</a>. _**Integrative Zoology**_.  
+Wang Z, Tian S, Pang J, Zhang X, **Hao X**, Zhang L, Zhao H* (2024). <a href="https://doi.org/10.1111/1749-4877.12915" target="_blank">Comparative analysis of chromosome‐level genomes provides insights into chromosomal evolution in Chiroptera</a>. _**Integrative Zoology**_, 20(6), 1185–1203.  
 <span class="__dimensions_badge_embed__" data-doi="10.1111/1749-4877.12915" data-hide-zero-citations="true" data-style="large_rectangle"></span>
 
 **Hao X**, Lu Q, Zhao H* (2024). <a href="https://doi.org/10.1111/1749-4877.12772" target="_blank">A molecular phylogeny for all 21 families within Chiroptera (bats)</a>. _**Integrative Zoology**_, 19(5), 989–998.  
