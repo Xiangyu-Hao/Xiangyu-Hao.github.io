@@ -16,7 +16,7 @@ Thank you for visiting my page :)
 2026–2027, **NSFC (National Natural Science Foundation of China) Youth Student Basic Research Project (PhD students)**  
 国家自然科学基金青年学生基础研究项目（博士研究生）  
 
-2026–2027, **Young Elite Scientists Sponsorship Program by CAST (China Association for Science and Technology) - Doctoral Student Special Plan**  
+2026–2027, **Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST**  
 中国科协青年科技人才培育工程 - 博士生专项计划  
 
 ---
