@@ -54,6 +54,14 @@ author_profile: true
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
+## 2026
+
+Zhang X, **Hao X**, Xiao J, Chiba H, Yuan X* (2026). Chromosome-level genome assembly of the common straight swift, _Parnara guttata_, provides insights into adaptive evolution on its rice host. **_Pest Management Science_**. (In press)
+
+Cao S, Liu Y, Tong Z, **Hao X**, Huang S* (2026). Evolution of pheromone communication systems in noctuid moths: insights into biosynthesis, recognition, and divergence. **_Journal of Systematics and Evolution_**. (In press)
+
+---
+
 ## 2025
 
 Xiao J, **Hao X**, Chiba H, Li Y, Yuan X* (2025). <a href="https://doi.org/10.1002/ece3.71757" target="_blank">Comparative analysis of mitogenomic and nuclear gene data reveals phylogenetic implications, divergence times and historical biogeography in the subfamily Pyrginae (Lepidoptera: Hesperiidae)</a>. _**Ecology and Evolution**_, 15(7), e71757.  
