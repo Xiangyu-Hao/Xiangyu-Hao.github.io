@@ -56,7 +56,9 @@ author_profile: true
 
 ## 2026
 
-Zhang X, **Hao X**, Xiao J, Chiba H, Yuan X* (2026). Chromosome-level genome assembly of the common straight swift, _Parnara guttata_, provides insights into adaptive evolution on its rice host. **_Pest Management Science_**. (In press)
+Zhang X, **Hao X**, Xiao J, Chiba H, Yuan X* (2026). <a href="https://doi.org/10.1002/ps.71164" target="_blank">Chromosome-level genome assembly of the common straight swift, _Parnara guttata_, provides insights into adaptive evolution on its rice host</a>. **_Pest Management Science_**. (Online)  
+<a href="/files/Zhang_2026_PMS.pdf" target="_blank">PDF</a>  
+<span class="__dimensions_badge_embed__" data-doi="10.1002/ps.71164" data-hide-zero-citations="true" data-style="large_rectangle"></span>
 
 Cao S, Liu Y, Tong Z, **Hao X**, Huang S* (2026). <a href="https://doi.org/10.1111/jse.70085" target="_blank">Evolution of pheromone communication systems in noctuid moths: insights into biosynthesis, recognition, and divergence</a>. **_Journal of Systematics and Evolution_**. (Online)  
 <a href="/files/Cao_2026_JSE.pdf" target="_blank">PDF</a>  
