@@ -37,8 +37,9 @@ author_profile: true
 (5) Foley _et al._ (2023) _Science_ [Tree](../links/Foley_2023_Science.pdf) [Link](https://www.science.org/doi/10.1126/science.abl8189)  
 
 ## Chiroptera (bats) 翼手目(蝙蝠) 🦇
-(1) Hao _et al._ (2023) _Integrative Zoology_ [Tree](../links/Hao_2023_INZ.pdf) [Link](https://doi.org/10.1111/1749-4877.12772)  
-(2) Teeling _et al._ (2018) _Annual Review of Animal Biosciences_ [Tree](../links/Teeling_2018_Annual_Review_of_Animal_Biosciences.pdf) [Link](https://doi.org/10.1146/annurev-animal-022516-022811)  
+(1) Teeling _et al._ (2018) _Annual Review of Animal Biosciences_ [Tree](../links/Teeling_2018_Annual_Review_of_Animal_Biosciences.pdf) [Link](https://doi.org/10.1146/annurev-animal-022516-022811)  
+(2) Hao _et al._ (2023) _Integrative Zoology_ [Tree](../links/Hao_2023_INZ.pdf) [Link](https://doi.org/10.1111/1749-4877.12772)  
+(3) Morales _et al._ (2026) _Nature_ [Tree](../links/Morales_2026_Nature.pdf) [Link](https://doi.org/10.1038/s41586-026-11007-3)  
 
 ## Primates 灵长目 🦍
 (1) Shao _et al._ (2023) _Science_ [Tree](../links/Shao_2023_Science.pdf) [Link](https://www.science.org/doi/10.1126/science.abn6919)  
